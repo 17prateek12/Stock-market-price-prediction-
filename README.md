@@ -4,7 +4,9 @@ The project consists of two different models: SVR and LSTM, which predict the pr
 I have created the first SVR model that predicts the high, low, and adjclose parameters, and the second Lstm model which predict and calculate accuracy of adjclose and also predict the adjclose of next n number of days.
 
 I have collected data from Tiingo, from 2018-2023, and from 2011-2023 of Tesla, and observed which model performed better on which data. 
-#################RESULTS FROM SVR###################
+
+
+###################RESULTS FROM SVR###################
 
 AdjClose
 The actual price: 122.4
@@ -40,7 +42,8 @@ The accuracy of the model is : 5.190311418685127
 
 NOTE# These accuracy is for data of TESLA from 2011-01-18 to 2023-01-13
 
-#################RESULTS FROM LSTM###################
+
+###################RESULTS FROM LSTM###################
 
 The accuracy for AdjClose is : 80.14157881339638 for data of TESLA from 2018-01-17 to 2023-01-13
 
