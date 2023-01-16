@@ -49,5 +49,5 @@ The accuracy for AdjClose is : 80.14157881339638 for data of TESLA from 2018-01-
 
 The accuracy for AdjClose is : 97.20555127257244 for data of TESLA from 2011-01-18 to 2023-01-13
 
-For references and guidances search on google and youtube
+
 
